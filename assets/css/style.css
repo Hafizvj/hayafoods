@@ -1607,6 +1607,8 @@ header.sidebar_menu .bottom_content {
 }
 .banner_slide_content {
   width: 100%;
+  padding-top: 25%;
+
   padding: 250px 0;
 }
 .banner_section {
